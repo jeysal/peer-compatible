@@ -43,3 +43,7 @@ peerCompatible('some-component-lib', { 'some-framework-core-lib': '1.0.0' })
 ```
 
 Returns **[Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)&lt;[Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)&lt;[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)>>** The versions of the package that work with given peers.
+
+## CLI version
+
+[peer-compatible-cli](https://github.com/jeysal/peer-compatible-cli)
