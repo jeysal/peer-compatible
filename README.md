@@ -1,5 +1,7 @@
 # peer-compatible
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jeysal/peer-compatible.svg)](https://greenkeeper.io/)
+
 > Find versions of a package that work with given peer dependencies
 
 [![build status](https://img.shields.io/travis/jeysal/peer-compatible.svg?style=flat-square)](https://travis-ci.org/jeysal/peer-compatible)
